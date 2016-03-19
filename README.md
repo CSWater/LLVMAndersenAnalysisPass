@@ -1,4 +1,5 @@
 # LLVMAndersenAnalysisPass
+This is a partial implementation of Andersen's Pointer Analysis as a pass in LLVM.
 Copy the folder into llvm-src/lib/Transforms.
 Then run 'make' command for compiling the pass into a shared library. 
 
